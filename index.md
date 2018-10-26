@@ -11,7 +11,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2018-11-08
 enddate: 2018-11-09
 instructor: ["Anne Fouilloux", "Sabry Razick", "Radovan Bast"]
-helper: ["TBA"]
+helper: ["Mathias Bockwoldt", "Stig Rune Jensen"]
 email: ["radovan.bast@uit.no"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite: "51594275868"
